@@ -3,7 +3,7 @@ package cn.fantunyi.nb;
 public class TextMethod {
     /**方法的五要素:修饰符 返回值类型 方法名(参数列表) {方法体}*/
     //创建一个人method方法,模拟百度翻译，定义String类型的参数
-    /**没有static修饰发的方法叫普通方法，姚等静态方法加载完再加载*/
+    /**没有static修饰发的方法叫普通方法，要等静态方法加载完再加载*/
     public static String method(String a) {
         if (a == "void") {
             return "无效的;缺乏;没有;空的;空空如也";

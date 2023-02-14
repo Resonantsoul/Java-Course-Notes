@@ -15,7 +15,7 @@ package cn.tedu.basic.oop.Interface;
 //    public void eat() {
 //        System.out.println("天气冷，适合吃火锅");
 //    }
-public  class InterImpl implements Inter {
+public class InterImpl implements Inter {
     @Override
     public void eat() {
 
