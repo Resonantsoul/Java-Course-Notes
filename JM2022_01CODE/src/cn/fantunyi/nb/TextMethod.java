@@ -20,5 +20,6 @@ public class TextMethod {
         //方法如果返回某个值，想要能够直接看到，就要写在打印语句中
         System.out.println(method("void"));
         System.out.println(method("public"));
+
     }
 }
